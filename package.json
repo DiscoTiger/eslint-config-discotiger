@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-discotiger",
   "version": "1.0.0",
-  "description": "",
+  "description": "My eslint config",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +10,14 @@
     "eslint": ">= 3"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Caden McCauley",
+  "license": "CC0-1.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiscoTiger/eslint-config-discotiger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DiscoTiger/eslint-config-discotiger/issues"
+  },
+  "homepage": "https://github.com/DiscoTiger/eslint-config-discotiger#readme"
 }
