@@ -73,7 +73,7 @@ module.exports = {
         "no-async-promise-executor": [1],
         "no-await-in-loop": [1],
         "no-console": [0],
-        "curly": [1, "multi", "consistent"],
+        "curly": [1, "multi-line", "consistent"],
         "nonblock-statement-body-position": [1, "beside"],
         "eqeqeq": [2, "always"],
         "guard-for-in": [2],
