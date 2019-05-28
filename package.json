@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-discotiger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My eslint config",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/DiscoTiger/eslint-config-discotiger/issues"
   },
-  "homepage": "https://github.com/DiscoTiger/eslint-config-discotiger#readme"
+  "homepage": "https://github.com/DiscoTiger/eslint-config-discotiger#readme",
+  "dependencies": {
+    "@typescript-eslint/parser": "^1.9.0"
+  }
 }
