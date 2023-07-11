@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/DiscoTiger/eslint-config-discotiger#readme",
   "dependencies": {
-    "@typescript-eslint/parser": "^1.9.0"
+    "@typescript-eslint/parser": "^6.0.0"
   }
 }
